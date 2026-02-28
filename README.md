@@ -56,7 +56,7 @@ pip install pandas scikit-learn matplotlib seaborn
 ```
 
 ## Author
-Shoaib Amreen
+Shoaib Akhter
 
 ## License
 This project is open-source and available for educational and research purposes.
